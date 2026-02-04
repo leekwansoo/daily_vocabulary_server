@@ -1,0 +1,157 @@
+[
+  {
+    "word": "Curious",
+    "meaning": "Wanting to know or learn about things",
+    "phrase": "Children are naturally curious about the world.",
+    "media": "",
+    "mailed_date": "2026-01-21T16:41:01.770254",
+    "sent_date": "2026-01-21T23:32:44.276421"
+  },
+  {
+    "word": "Erosion",
+    "meaning": "Wearing away of soil and rock",
+    "phrase": "Water erosion carved the magnificent Grand Canyon.",
+    "media": "",
+    "mailed_date": "2026-01-21T21:53:48.034731",
+    "sent_date": "2026-01-21T23:32:44.276421"
+  },
+  {
+    "word": "Analysis",
+    "meaning": "Detailed examination of components",
+    "phrase": "Chemical analysis revealed the compound's composition.",
+    "media": "",
+    "mailed_date": "2026-01-21T21:53:48.065290",
+    "sent_date": "2026-01-21T23:32:44.276421"
+  },
+  {
+    "word": "History",
+    "meaning": "Study of past events",
+    "phrase": "History helps us understand how the world changed.",
+    "expressions": [
+      "History is interesting.",
+      "Learn from history."
+    ],
+    "category": "history",
+    "mailed_date": "2026-01-22T09:19:30.693383",
+    "sent_date": "2026-01-22T15:38:30.031280"
+  },
+  {
+    "word": "Lake",
+    "meaning": "Large area of water surrounded by land",
+    "phrase": "We went fishing at the beautiful mountain lake.",
+    "expressions": [
+      "The lake is calm.",
+      "Fish in the lake."
+    ],
+    "category": "geography",
+    "mailed_date": "2026-01-22T09:19:30.707658",
+    "sent_date": "2026-01-22T15:38:30.031280"
+  },
+  {
+    "word": "Manager",
+    "meaning": "Person who controls a business or team",
+    "phrase": "The manager held a meeting with all employees.",
+    "expressions": [
+      "The manager is nice.",
+      "Ask the manager."
+    ],
+    "category": "business",
+    "mailed_date": "2026-01-22T09:19:30.720306",
+    "sent_date": "2026-01-22T15:38:30.031280"
+  },
+  {
+    "word": "Population",
+    "meaning": "Number of people living in a place",
+    "phrase": "The city's population has grown rapidly in recent years.",
+    "expressions": [
+      "The population is growing.",
+      "Count the population."
+    ],
+    "category": "geography",
+    "mailed_date": "2026-01-22T15:38:07.592264",
+    "sent_date": "2026-01-22T15:38:30.031280"
+  },
+  {
+    "word": "Company",
+    "meaning": "Organization that sells goods or services",
+    "phrase": "The company employs over 100 people.",
+    "expressions": [
+      "The company is hiring.",
+      "Our company is successful."
+    ],
+    "category": "business",
+    "mailed_date": "2026-01-22T15:38:07.609885",
+    "sent_date": "2026-01-22T15:38:30.031280"
+  },
+  {
+    "word": "Guide",
+    "meaning": "Person who shows tourists around",
+    "phrase": "The tour guide explained the history of the castle.",
+    "expressions": [
+      "The guide knows everything.",
+      "Hire a tour guide."
+    ],
+    "category": "travel",
+    "mailed_date": "2026-01-30T12:57:55.245810",
+    "sent_date": "2026-01-30T20:45:45.664774"
+  },
+  {
+    "word": "Poem",
+    "meaning": "Piece of writing in verse",
+    "phrase": "She recited a poem about friendship.",
+    "expressions": [
+      "Recite a poem.",
+      "Write a short poem."
+    ],
+    "category": "literature",
+    "mailed_date": "2026-01-30T12:57:55.262626",
+    "sent_date": "2026-01-30T20:45:45.664774"
+  },
+  {
+    "word": "Continent",
+    "meaning": "Very large area of land",
+    "phrase": "Asia is the largest continent in the world.",
+    "expressions": [
+      "Asia is the largest continent.",
+      "Visit every continent."
+    ],
+    "category": "geography",
+    "mailed_date": "2026-01-30T12:57:55.275625",
+    "sent_date": "2026-01-30T20:45:45.664774"
+  },
+  {
+    "word": "Organized",
+    "meaning": "Arranged in a neat and logical way",
+    "phrase": "Keep your desk organized for better productivity.",
+    "expressions": [
+      "This is organized.",
+      "I like organized."
+    ],
+    "video": "",
+    "category": "general",
+    "mailed_date": "2026-01-30T22:00:57.224780"
+  },
+  {
+    "word": "Modern",
+    "meaning": "Relating to the present time",
+    "phrase": "The modern technology makes our lives easier.",
+    "expressions": [
+      "This is modern.",
+      "I like modern."
+    ],
+    "audio": "audio\\modern.wav",
+    "category": "general",
+    "mailed_date": "2026-01-30T22:00:57.238651"
+  },
+  {
+    "word": "Employee",
+    "meaning": "Person who works for a company",
+    "phrase": "Every employee received a bonus this Christmas.",
+    "expressions": [
+      "Every employee matters.",
+      "She's a good employee."
+    ],
+    "category": "business",
+    "mailed_date": "2026-01-30T22:00:57.250694"
+  }
+]

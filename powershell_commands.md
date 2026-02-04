@@ -1,0 +1,3 @@
+## Power Shell Commands for scheduler automation
+
+$action = New-ScheduledTaskAction -Execute "C:\Users\user2\AppData\Local\Programs\Python\Python313\python.exe" -Argument "task_handler.py" -WorkingDirectory "C:\Users\user2\Desktop\daily_vocabulary_service-main"; $trigger = New-ScheduledTaskTrigger -Daily -At 9:00AM; $principal = New-ScheduledTaskPrincipal -UserId "$env:USERNAME" -LogonType Interactive -RunLevel Highest; $settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable; Register-ScheduledTask -TaskName "DailyVocabularyMailer" -Action $action -Trigger $trigger -Principal $principal -Settings $settings -Description "Sends daily vocabulary emails to subscribers"

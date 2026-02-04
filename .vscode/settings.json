@@ -1,0 +1,7 @@
+{
+    "terminal.integrated.env.windows": {
+        "FFMPEG_BINARY": "ffmpeg",
+        "FFPROBE_BINARY": "ffprobe"
+    },
+    "python.terminal.activateEnvironment": true
+}
